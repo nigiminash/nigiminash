@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niko
 - joung coder (18)
 - 👀 I’m interested in science, especially maths and physics
-- 🌱 I’m currently learning pytorch 6 django
+- 🌱 I’m currently learning pytorch & django
 - 💞️ I’m looking to collaborate on any project, but more likely if it's written in python
 - 📫 How to reach me instagram: nigi_minash (a little bit of an artist)
 - ⚡ Fun fact: Some years ago I was a figure skater
